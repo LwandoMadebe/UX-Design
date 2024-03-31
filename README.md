@@ -9,6 +9,6 @@ The company also wants to be able to drill into a project detailed view to see a
 access all project information if required. 
 
 ### Resources:
-• Figma
-• Google Material Design
-• Canva (Graphical Illustrations)
+1. Figma
+2. Google Material Design
+3. Canva (Graphical Illustrations)
