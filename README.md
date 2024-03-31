@@ -4,8 +4,8 @@ The dashboard should be accessible via mobile and desktop and allow the user to 
 The company also wants to be able to drill into a project detailed view to see additional project information before they take action on an account. We were required to present our design in front of lecturers(They represent clients) and class to show the functionality of our design using Figma.
 
 ### Key Stakeholders:
-• Management Team: To see all projects.
-• Project Leads: They are primarily interested in their projects, but they can
+1. Management Team: To see all projects.
+2. Project Leads: They are primarily interested in their projects, but they can
 access all project information if required. 
 
 ### Resources:
